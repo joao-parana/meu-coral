@@ -3,6 +3,7 @@ meu-coral
 
 <audio controls> 
     <source src="https://raw.githubusercontent.com/joao-parana/meu-coral/master/docs/media/Principe%20Igor%20-%20Tenores.mp3"></source> 
+    <p>Seu navegador não suporta o elemento audio </p>
 </audio>
 
 <audio src="https://raw.githubusercontent.com/joao-parana/meu-coral/master/docs/media/Principe%20Igor%20-%20Tenores.mp3" 
